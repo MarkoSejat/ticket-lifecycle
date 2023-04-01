@@ -141,7 +141,7 @@ So now lets pretend as if Jane did something and was able to resolve it. We can 
 <img src="https://i.imgur.com/HmrtcWk.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I hope that this project was helpful in setting up, configuring, and working with osTicket. The purpose of this particular lab was to demonstrate how tickets are created, edited, and resolved. No doubt this is something that every help-desk professional will encounter in one way or another whether it be through osTicket or some other service. Thank you for your time and I am happy that I was able to walk you through the process.
+We can now see the ramaining tickets and go down the list to resolve each one. We can assign them to diffrent users that we have created and take appropriate steps such as assigning the correct SLA levels and departments. I hope that this project was helpful in setting up osTicket through Microsoft Azure VMs, configuring, and working with osTicket. The purpose of this particular lab was to demonstrate how tickets are created, edited, and resolved. No doubt this is something that every help-desk professional will encounter in one way or another whether it be through osTicket or some other service. Thank you for your time and I am happy that I was able to walk you through the process.
 <br>
   -Marko
 </p>
