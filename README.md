@@ -88,38 +88,61 @@ We should now be logged into the Jane Doe account and be able to see all the tic
 <img src="https://i.imgur.com/fc9FNAQ.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lets start off by clicking the first ticket we recived relating to the entire mobile online banking being down. If we click that We should be able to see all the details about the ticket. Everything from the description right down to who it was sent by will be displayed to us. In this case, we can see that it was sent to us by Karen. It is now up to Jane to proceed with hashing out all the details of the ticket. Jane knows that this issue sounds pretty serious as it it can impact business so she uses her discretion to analyze the severity of the problem. She can do this by clicking "normal" next to where it says "Priority" up ontop and changing the status to "Emergency", adding a note and clicking "update" . 
+Lets start off by clicking the first ticket we recived relating to the entire mobile online banking being down. If we click that We should be able to see all the details about the ticket. Everything from the description right down to who it was sent by will be displayed to us. In this case, we can see that it was sent to us by Karen. It is now up to Jane to proceed with hashing out all the details of the ticket. Jane knows that this issue sounds pretty serious as it it can impact business so she uses her discretion to analyze the severity of the problem. She can do this by clicking "normal" next to where it says "Priority" up ontop and changing the status to "Emergency", adding a note and clicking "update" . Jane can rework all the details of the ticket from here by following the same steps for each section. Simply just click and edit.  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CwZNaOm.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4D4ZdsH.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RWI0EBY.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since this sounds like a pretty serious issue, Jane decided to assign this to the System-Administrator department to which she is also a part of. Because Jane is so awesome, she decided to assign the task to herself under the "Assigned To" section. We can see just how easily we can edit/change different settings in osTicket by just clicking around. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lt03pe1.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+One thing to note is that a log is created whenever we change or edit something within a ticket. We can see this by just scrolling down within the ticket itself. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ITiuVAO.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If we continue to scroll down past the log of all our changes, we can see a section dedicated to posting a reply to the ticket. From here Jane can respond to Karen directly in regards to the status of the ticket and update her on what is going on. So for this example, lets say that Jane is fully capable of fixing the issue but she still needs to coordinate with the system admin about the problem. Jane will write that down in her response and leave the ticket status as "open" and click "Post Reply". 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RARlfAb.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If we go back to our main Tickets tab, we can now see that the ticket has been read and marked as "Emergency" under priority. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/IjioxVQ.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lBAbyMr.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So now lets pretend as if Jane did something and was able to resolve it. We can simply just go back into the ticket and go all the way down. We can say that she Jerry, a coleague of Jane, was able to resolve the issue by connecting a failed load balancer. We can also edit the ticket status by changing it to "resolved". We will then be rerouted to the main ticket screen once we submit the changes but we will notice that our ticket is no longer there. This is because our ticket is now in the "closed" section.  
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/HmrtcWk.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I hope that this project was helpful in setting up, configuring, and working with osTicket. The purpose of this particular lab was to demonstrate how tickets are created, edited, and resolved. No doubt this is something that every help-desk professional will encounter in one way or another whether it be through osTicket or some other service. Thank you for your time and I am happy that I was able to walk you through the process.
+<br>
+  -Marko
 </p>
 <br />
